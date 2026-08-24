@@ -90,3 +90,5 @@ pgrep -a <process_name>            # Find PID by name
 kill -15 <PID>                     # Soft graceful kill
 kill -9 <PID>                      # Force kill
 top / htop                         # Real-time resource                               task manager 
+
+sh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG6NZamJVM1yGPnmEn9xlathjaH8sDs3nxeug9UXrMfk hemant@devops-learning
